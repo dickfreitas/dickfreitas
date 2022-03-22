@@ -1,5 +1,7 @@
 ### Ola, me chamo Dickson Freitas
  Atualmente estudando Desenvolvimento Web Full-Stack na Labenu
+ 
+ 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dicksinho)
  [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dickson-sampaio-286205230/)
  
