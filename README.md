@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Ola, me chamo Dickson Freitas
+ Atualmente estudando Desenvolvimento Web Full-Stack na Labenu
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dicksinho)
+ [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dickson-sampaio-286205230/)
+ 
+ 
+ ![Dickson Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=dickfreitas&show_icons=true&theme=highcontrast)
 <!--
 **dickfreitas/dickfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
