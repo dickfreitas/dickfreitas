@@ -15,7 +15,7 @@
         </samp>
         </p>
 <br/>
- <img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+ <img align="center" width="60%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
  <h3 align="center">
 
    <b>Conecte-se comigo</b>
@@ -26,8 +26,8 @@
   <img href="https://www.linkedin.com/in/dickson-sampaio-286205230/"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 <br/>
- <h3>&gt;
-   <b><a target="_blank" href="https://shahriarshafin.me/">Estatisticas</a></b>
+ <h3 align="center" >
+   <b>Estatisticas</b>
  </h3>
  <hr/>
 <img align="left"  width="45%"src="https://github-readme-stats.vercel.app/api?username=dickfreitas&theme=algolia&show_icons=true"/>
@@ -45,5 +45,4 @@
 <img align="left" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router/>
 <img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/>
 
-<img src="https://badges.pufler.dev/years/{dickfreitas}"/>
 </div>
