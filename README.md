@@ -10,12 +10,11 @@
 
 <br/>
 <h2>Estatisticas</h2>
-<img align="left" width="50%"src="https://github-readme-stats.vercel.app/api?username=dickfreitas&theme=algolia&show_icons=true"/>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
+<img align="left"  width="42%" width="50%"src="https://github-readme-stats.vercel.app/api?username=dickfreitas&theme=algolia&show_icons=true"/>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=dickfreitas&theme=algolia" alt="muskanrani" />
 <img/>
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dickfreitas&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickfreitas&layout=compact&langs_count=16&theme=great-gatsby"/>
+
 </div>
 <br>
